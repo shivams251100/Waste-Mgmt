@@ -1,6 +1,6 @@
 # Garbage Classification with Render
 
-The application was deployed on https://garbage-classifier-n6z0.onrender.com
+The application was deployed on https://waste-mgmt1122.onrender.com/
 
 ![demoImage](images/demo.png)
 
