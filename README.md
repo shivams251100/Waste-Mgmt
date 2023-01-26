@@ -2,11 +2,6 @@
 
 The application was deployed on https://waste-mgmt1122.onrender.com/
 
-![demoImage](images/demo.png)
-
-![demo2Image](images/demo2.png)
-
-
 
 # Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
 
